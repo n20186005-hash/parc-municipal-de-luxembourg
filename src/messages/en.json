@@ -328,22 +328,5 @@
   "officialManagement": {
     "title": "About Municipal Park of Luxembourg",
     "text": "The Municipal Park of Luxembourg is managed and maintained by the Luxembourg City Government, serving as the most important historic public garden in Luxembourg City.\n\nAs a model example of 19th-century European English landscape gardens, the park was built on the site of old fortifications demolished by the 1867 Treaty of London. It witnesses Luxembourg's transformation from a military fortress to a modern metropolis, serving as Luxembourg City's 'urban green lung' and cultural landmark. Today, the park is open to the public free of charge, making it an excellent destination for exploring Luxembourg's urban scenery and local life."
-  },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {"name": "Luxembourg Old Town", "url": "https://www.visitluxembourg.com"},
-      {"name": "Grand Ducal Palace", "url": "https://www.visitluxembourg.com"},
-      {"name": "Petrusse Valley", "url": "https://www.visitluxembourg.com"},
-      {"name": "National Museum of History and Art", "url": "https://www.mnha.lu"}
-    ],
-    "tours": [
-      {"name": "Luxembourg City Walking Tour", "url": "https://www.visitluxembourg.com"},
-      {"name": "Luxembourg History Exploration", "url": "https://www.visitluxembourg.com"},
-      {"name": "Luxembourg Art & Culture Tour", "url": "https://www.visitluxembourg.com"},
-      {"name": "Luxembourg Nature & Scenery Tour", "url": "https://www.visitluxembourg.com"}
-    ]
   }
 }
