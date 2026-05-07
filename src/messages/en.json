@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "title": "Parc municipal de Luxembourg｜Luxembourg City's English Garden & Century-Old Urban Oasis - Best European Spots",
+    "description": "Complete guide to Parc municipal de Luxembourg (Municipal Park of Luxembourg). Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Luxembourg City's premier English landscape garden and historic urban green space."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Municipal Park of Luxembourg",
+    "subtitle": "Luxembourg City's Premier English Garden & Century-Old Urban Oasis",
+    "rating": "4.6(6,300)",
+    "reviewCount": "6,300 reviews",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Municipal Park of Luxembourg",
+    "description": "Step into the Municipal Park of Luxembourg, and you'll instantly be wrapped in a sense of open and tranquil greenery. There are no crowded commercial areas, only endless lawns, lush trees, crystal-clear ponds, and winding paths — every corner exudes the power of natural healing.\n\nI visited on a summer afternoon. Sunlight filtered through the foliage of century-old trees, creating dappled light and shadow. The breeze carried subtle scents of grass, trees, and flowers. The lawns were vast and soft, the ponds clear and serene, waterfowl gliding peacefully, and retro sculptures standing quietly among the trees, adding profound cultural heritage to the natural landscape.\n\nThe park was alive with relaxed visitors — some jogging along paths, others having picnics on the lawn, children playing joyfully in the pirate ship playground, their laughter echoing through the garden. In the distance, the elegant white buildings of Villa Louvigny and Villa Vauban stood gracefully among the green trees, telling stories of a hundred years.\n\nThere is no hurried pace here, only the slowdown and relaxation. In the evening, the setting sun bathes the garden in warm golden hues. The lake surface shimmers, and shadows stretch gently. At this moment, the Municipal Park of Luxembourg perfectly blends English garden elegance, natural tranquility, and the charm of urban life — healing and beautiful.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Recommended to visit on weekday mornings or evenings when crowds are sparse and light is soft — perfect for strolling and photography",
+        "All public areas of the park are free; conservatory and guided tours require separate tickets",
+        "Park trails are gentle, mostly paved or dirt paths — comfortable hiking shoes recommended",
+        "Mosquitoes are more prevalent in summer; take precautions. Lake surfaces may freeze in winter; watch for slippery conditions"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Largest historic public garden in Luxembourg City",
+        "Model example of 19th-century European English landscape gardens",
+        "Designed by renowned French landscape architect Édouard André",
+        "Witnesses Luxembourg's transformation from military fortress to modern metropolis"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Municipal Park of Luxembourg",
+    "sections": [
+      {
+        "id": "history",
+        "title": "A Century of Historical Transformation",
+        "content": "The origins of the Municipal Park of Luxembourg trace back to 1867, following the Treaty of London, which led to the demolition of the military fortifications surrounding the old town. On this former fortress site, a public garden was planned and developed. In 1890, renowned French landscape architect Édouard François André officially designed and oversaw the construction, creating this approximately 30-hectare English landscape garden.\n\nSince its completion, the park has undergone multiple expansions and renovations, adding facilities such as conservatories, themed gardens, and children's play areas, gradually developing into an urban green core integrating natural landscapes, historical heritage, recreation, and cultural activities. Villa Louvigny within the park served as the headquarters of Luxembourg Broadcasting Company and hosted the Eurovision Song Contest twice in 1962 and 1966. Villa Vauban was the original location of the European Court of Justice and now houses an art museum, carrying important modern historical memories of Luxembourg."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "Covering approximately 30 hectares, the park features expansive lawns, winding paths, abundant greenery, and water features, complemented by century-old trees, retro sculpture groups, seasonal gardens, and a conservatory. The park houses Villa Louvigny and Villa Vauban, combining natural wild charm with humanistic heritage, rich landscape layers, and open, comfortable spaces.\n\nThe 19th-century English landscape garden style blends the formality of French gardens with naturalistic wild charm. Lines flow smoothly and comfortably, layouts are open and grand. Characterized by vast lawns, scattered woodland meadows, curved paths, and naturalistic water features, the architecture is low-key and elegant, greenery is richly layered, atmosphere is serene and refined — combining the solemnity of royal gardens with the relaxation of urban parks."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "A core gathering place for generations of Luxembourg citizens for leisure and gatherings, a hub for picnics, walks, outdoor concerts, and cultural activities. Villa Louvigny in the park hosted the Eurovision Song Contest, while Villa Vauban was the original site of the European Court of Justice, carrying Luxembourg's modern political, cultural, and artistic history, and serving as an important venue for European garden art exchange.\n\nOver centuries, the Municipal Park of Luxembourg has witnessed Luxembourg's development from a military fortress to a modern international metropolis, transforming from fortress ruins into a shared public space for all. Today, it remains an irreplaceable spiritual retreat for Luxembourg citizens and a cultural landmark of the city."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "Enter the park in the early morning, enter from the main gate, stroll along the central tree-lined promenade, check in at century-old trees, retro sculpture groups, and pond water features, wander through seasonal gardens and conservatory areas, visit the exteriors of Villa Louvigny and Villa Vauban, and finally relax on the vast lawn — this is the most classic experience at the Municipal Park of Luxembourg.\n\nIn the evening, the setting sun bathes the garden in warm golden hues. The lake surface shimmers, and shadows stretch gently. At this moment, the Municipal Park of Luxembourg perfectly blends English garden elegance, natural tranquility, and the charm of urban life — an unmissable experience of Luxembourg's slow-paced urban lifestyle."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Parc municipal de Luxembourg (also known as Parc Edouard André)",
+    "type": "Attraction Type",
+    "typeValue": "City Park, Historic Garden, English Landscape Garden, Leisure & Cultural Space",
+    "country": "Country",
+    "countryValue": "Luxembourg",
+    "city": "City",
+    "cityValue": "Luxembourg City",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "38 Bd Joseph II, 1840 Ville-Haute Luxembourg"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Grounds",
+    "outdoorTime": "Open 24/7 year-round, no access restrictions",
+    "lighthouse": "Children's Playground & Sculpture Garden",
+    "summer": "Summer (April - October)",
+    "summerTime": "09:00-21:00",
+    "winter": "Winter (November - March)",
+    "winterTime": "09:00-18:00",
+    "warning": "Conservatory & Temporary Pavilions",
+    "warningTime": "Open summer only (10:00-17:00)",
+    "tip": "Recommended to visit weekday mornings or evenings when crowds are sparse and light is soft"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "outdoor": "Park Public Areas",
+    "outdoorPrice": "Completely free access, no admission fee",
+    "lighthouse": "Conservatory Exhibitions & Themed Garden Tours",
+    "adults": "Adults",
+    "adultsPrice": "Separate ticket required",
+    "students": "Students & Seniors",
+    "studentsPrice": "Discounted pricing",
+    "children": "Children",
+    "childrenPrice": "Free in some areas",
+    "card": "Luxembourg City Pass",
+    "cardPrice": "Can offset some venue fees; ideal for multi-attraction travelers"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "airport": "From Luxembourg Airport",
+    "airportDesc": "Take the airport express train to Luxembourg Central Station, then transfer to Tram T1 to Rousegaertchen stop, walk 5 minutes to the park entrance. Total journey approximately 30 minutes. Airport rideshare can take you directly to the park — ideal for travelers with luggage or groups.",
+    "selfDrive": "Public Transport (Recommended)",
+    "selfDriveDesc": "From Luxembourg Central Station, take Tram T1 or short-distance buses. Arrive at park-area stops within 10 minutes, walk 3 minutes to the entrance. Public transport runs frequently.",
+    "bus": "Walking from Nearby Attractions",
+    "busDesc": "Accessible by foot from Luxembourg Old Town, Grand Ducal Palace, and Petrusse Valley. City pedestrian paths connect well — ideal for walking tours and visiting multiple attractions.",
+    "intercity": "Cycling",
+    "intercityDesc": "Public cycling stations are available around the park, suitable for short trips. Park trails are gentle, providing a comfortable cycling experience.",
+    "cycling": "Luxembourg Day Pass",
+    "cyclingDesc": "Purchase a Luxembourg public transport day pass for unlimited rides on trams, buses, and trains — efficient for visiting attractions across the city.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Park trails are gentle, mostly paved or dirt paths — comfortable hiking shoes recommended. Best experienced during weekday mornings or evenings."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Recommended to enter the park in the early morning. Enter from the main gate, stroll along the central tree-lined promenade, check in at century-old trees, retro sculpture groups, and pond water features, wander through seasonal gardens and conservatory areas, visit the exteriors of Villa Louvigny and Villa Vauban, and finally relax on the vast lawn. The entire experience is relaxed and casual. Standard visit takes about 2 hours; extended exploration can last half a day.",
+    "steps": [
+      "Arrive at nearby public transport stops and walk to the main entrance of Municipal Park of Luxembourg",
+      "Stroll along the central tree-lined promenade, enjoying expansive lawns and lush tree landscapes",
+      "Head to the pond area, observe waterfowl and water features, check in at nearby retro sculptures",
+      "Wander through seasonal garden paths, enjoying seasonal flower displays and horticultural landscaping",
+      "Visit the conservatory area (open in summer), enjoy tropical plants and horticultural exhibitions",
+      "Tour the exterior of Villa Louvigny, learn about architectural history and cultural connections",
+      "Walk to Villa Vauban, admire the elegant architecture and surrounding landscapes",
+      "Relax on the vast lawn area, experience the local lifestyle of picnics and relaxation",
+      "Exit through the park's side gate, connecting to nearby Old Town and Petrusse Valley attractions"
+    ],
+    "supplements": [
+      "Park trails are gentle, mostly paved or dirt paths — comfortable hiking shoes recommended",
+      "Mosquitoes are more prevalent in summer; take precautions. Lake surfaces may freeze in winter; watch for slippery conditions",
+      "Protect park greenery and historical heritage; climbing sculptures, carving trees, or picking flowers is prohibited",
+      "The park maintains a quiet atmosphere; keep voices low and respect the local recreational environment",
+      "Summer may feature outdoor concerts, horticultural exhibitions, and folk activities — enjoy local cultural experiences when encountered"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Central Tree-Lined Promenade",
+        "desc": "Extremely strong depth perception; natural light through trees creates layered shadows — perfect for atmospheric panoramic shots"
+      },
+      {
+        "name": "Pond Shoreline",
+        "desc": "Lake water and trees as backdrop; the water surface creates natural reflections — clean and healing images"
+      },
+      {
+        "name": "Retro Sculpture Groups",
+        "desc": "Sculptures paired with greenery; soft composition — suitable for cultural and landscape photography"
+      },
+      {
+        "name": "Century-Old Trees",
+        "desc": "Thick trunks and lush branches as main subjects — highlighting the weight of history"
+      },
+      {
+        "name": "Villa Louvigny Exterior",
+        "desc": "White elegant architecture nestled among green trees — French-style elegance for atmospheric shots"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Natural light is abundant in the park; sunny days offer soft lighting — ideal for scenery and portrait photography. Drone flying is prohibited throughout the park; observe local regulations. Obtain permission before photographing local residents and children. For empty, crowd-free shots, visit weekday mornings to avoid crowds."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Great Value: Historic Hotels within Walking Distance",
+        "desc": "Renovated historic buildings with park views from windows, quiet and livable",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Design Choice: Nordic Minimalist Stay near Old Town",
+        "desc": "Convenient transportation; walking distance to park and Petrusse Valley attractions",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Unique Experience: Historic Townhouse B&B in Old Town Lanes",
+        "desc": "Strong European vintage atmosphere; immersive local living experience",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Budget Choice: Value Accommodation near Luxembourg Central Station",
+        "desc": "Convenient public transport; short distance to the park",
+        "price": "Price varies by season"
+      }
+    ],
+    "supplements": "Accommodation Tips",
+    "supplementsContent": "Luxembourg city center is safe and secure; daytime exploration is comfortable. Avoid dark alleys late at night. Accommodation prices increase during peak travel season (summer, weekends); book in advance. Prioritize accommodations between the park and Old Town — within walking distance to Municipal Park of Luxembourg, Luxembourg Old Town, Grand Ducal Palace, Petrusse Valley, and other core attractions, saving travel time."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Municipal Park of Luxembourg English Garden & Century-Old Urban Oasis",
+    "captions": [
+      "Municipal Park Panorama",
+      "Central Tree-Lined Promenade",
+      "Expansive Lawns",
+      "Pond Water Features",
+      "Century-Old Trees",
+      "Retro Sculptures",
+      "Villa Louvigny",
+      "Garden Scenery"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ming Z.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Absolutely beautiful! This park is Luxembourg City's green lung. Despite being in the city center, it's so peaceful. The century-old trees, expansive lawns, and elegant ponds instantly help you relax."
+      },
+      {
+        "name": "Hua L.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "A perfect place for walks! Gentle trails, beautiful surroundings, and so many locals having picnics and jogging — truly experiencing authentic Luxembourg life."
+      },
+      {
+        "name": "Fang W.",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "The English garden style is unique with rich landscape layers. The evening light is particularly beautiful — great for photography. Strongly recommend visiting in the evening!"
+      },
+      {
+        "name": "Wei C.",
+        "date": "December 2025",
+        "rating": 4,
+        "text": "A treasure of a park right in the city center, free to enter, very considerate. Nearby attractions are all within walking distance — perfect for city strolls."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "38 Bd Joseph II, 1840 Ville-Haute Luxembourg",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Municipal Park of Luxembourg Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Visit Luxembourg",
+      "tourism": "Luxembourg Travel",
+      "england": "Visit Luxembourg"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Municipal Park of Luxembourg",
+    "text": "The Municipal Park of Luxembourg is managed and maintained by the Luxembourg City Government, serving as the most important historic public garden in Luxembourg City.\n\nAs a model example of 19th-century European English landscape gardens, the park was built on the site of old fortifications demolished by the 1867 Treaty of London. It witnesses Luxembourg's transformation from a military fortress to a modern metropolis, serving as Luxembourg City's 'urban green lung' and cultural landmark. Today, the park is open to the public free of charge, making it an excellent destination for exploring Luxembourg's urban scenery and local life."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Luxembourg Old Town", "url": "https://www.visitluxembourg.com"},
+      {"name": "Grand Ducal Palace", "url": "https://www.visitluxembourg.com"},
+      {"name": "Petrusse Valley", "url": "https://www.visitluxembourg.com"},
+      {"name": "National Museum of History and Art", "url": "https://www.mnha.lu"}
+    ],
+    "tours": [
+      {"name": "Luxembourg City Walking Tour", "url": "https://www.visitluxembourg.com"},
+      {"name": "Luxembourg History Exploration", "url": "https://www.visitluxembourg.com"},
+      {"name": "Luxembourg Art & Culture Tour", "url": "https://www.visitluxembourg.com"},
+      {"name": "Luxembourg Nature & Scenery Tour", "url": "https://www.visitluxembourg.com"}
+    ]
+  }
+}
