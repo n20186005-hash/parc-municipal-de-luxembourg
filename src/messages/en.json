@@ -4,6 +4,7 @@
     "description": "Complete guide to Parc municipal de Luxembourg (Municipal Park of Luxembourg). Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Luxembourg City's premier English landscape garden and historic urban green space."
   },
   "header": {
+    "siteName": "Parc municipal de Luxembourg",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
@@ -250,7 +251,8 @@
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Municipal Park of Luxembourg Independent Travel Research Association · All rights reserved.",
+    "siteName": "Parc municipal de Luxembourg",
+    "rights": "© 2026 Parc municipal de Luxembourg Independent Travel Research Association · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",

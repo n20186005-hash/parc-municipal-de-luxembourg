@@ -4,6 +4,7 @@
     "description": "探索卢森堡市立公园(Parc municipal de Luxembourg)的完整指南。了解开放时间、交通路线、门票信息、游览攻略和精彩照片。卢森堡市中心英式园林与百年绿肺。"
   },
   "header": {
+    "siteName": "卢森堡市立公园",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -250,6 +251,7 @@
     "openMaps": "在 Google Maps 查看"
   },
   "footer": {
+    "siteName": "卢森堡市立公园",
     "rights": "© 2026 卢森堡市立公园独立旅游研究协会 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
