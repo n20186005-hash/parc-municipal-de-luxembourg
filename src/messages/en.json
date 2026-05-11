@@ -259,9 +259,11 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "council": "Visit Luxembourg",
-      "tourism": "Luxembourg Travel",
-      "england": "Visit Luxembourg"
+      "visitLuxembourg": "Visit Luxembourg",
+      "visitLuxembourgCity": "Visit Luxembourg City",
+      "luxembourgLu": "Luxembourg.lu",
+      "cityMuseum": "Lëtzebuerg City Museum",
+      "luxembourgCard": "LuxembourgCard"
     },
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
   },

@@ -21,14 +21,20 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              <a href="https://www.visitdenmark.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.council')}
+              <a href="https://www.visitluxembourg.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.visitLuxembourg')}
               </a>
-              <a href="https://www.visitcopenhagen.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.tourism')}
+              <a href="https://www.luxembourg-city.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.visitLuxembourgCity')}
               </a>
-              <a href="https://www.copenhagencard.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.england')}
+              <a href="https://luxembourg.public.lu/en.html" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.luxembourgLu')}
+              </a>
+              <a href="https://citymuseum.lu/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.cityMuseum')}
+              </a>
+              <a href="https://www.visitluxembourg.com/en/luxembourg-card" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.luxembourgCard')}
               </a>
             </div>
           </div>

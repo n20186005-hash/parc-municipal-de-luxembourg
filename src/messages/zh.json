@@ -259,9 +259,11 @@
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": {
-      "council": "卢森堡旅游局",
-      "tourism": "卢森堡旅行",
-      "england": "Visit Luxembourg"
+      "visitLuxembourg": "Visit Luxembourg",
+      "visitLuxembourgCity": "Visit Luxembourg City",
+      "luxembourgLu": "Luxembourg.lu",
+      "cityMuseum": "Lëtzebuerg City Museum",
+      "luxembourgCard": "LuxembourgCard"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
   },
