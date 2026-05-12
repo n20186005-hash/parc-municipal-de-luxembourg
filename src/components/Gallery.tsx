@@ -16,6 +16,7 @@ const photos = [
   { src: '/gallery/images (10).jpg', alt: '花园步道' },
   { src: '/gallery/images (11).jpg', alt: '温室区域' },
   { src: '/gallery/images (12).jpg', alt: '园林夜景' },
+  { src: '/gallery/images (13).jpg', alt: '休闲长椅' },
 ];
 
 export default function Gallery() {
@@ -49,7 +50,7 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
+              {photos.map((photo, i) => (
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
@@ -60,14 +61,14 @@ export default function Gallery() {
                 >
                   <img
                     src={photo.src}
-                    alt={photo.alt}
+                    alt={t(`captions.${i}`)}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {t(`captions.${i}`)}
                     </p>
                   </div>
                 </div>
@@ -136,7 +137,7 @@ export default function Gallery() {
 
           <img
             src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
+            alt={t(`captions.${currentIndex}`)}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />
