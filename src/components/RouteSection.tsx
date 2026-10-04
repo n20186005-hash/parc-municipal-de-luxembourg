@@ -1,12 +1,19 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function RouteSection() {
   const t = useTranslations('route');
+  const messages = useMessages() as any;
 
-  const steps = Array.from({ length: 8 }, (_, i) => i + 1);
-  const supplements = Array.from({ length: 5 }, (_, i) => i);
+  // Derive the counts from the message file so every locale stays in sync.
+  const stepCount = Array.isArray(messages?.route?.steps) ? messages.route.steps.length : 0;
+  const supplementCount = Array.isArray(messages?.route?.supplements)
+    ? messages.route.supplements.length
+    : 0;
+
+  const steps = Array.from({ length: stepCount }, (_, i) => i + 1);
+  const supplements = Array.from({ length: supplementCount }, (_, i) => i);
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>

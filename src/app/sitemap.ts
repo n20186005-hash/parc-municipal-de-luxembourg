@@ -9,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
 
   for (const path of PATHS) {
-    for (const locale of routing.locales as Locale[]) {
+    for (const locale of routing.locales as readonly Locale[]) {
       entries.push({
         url: localeUrl(locale, path),
         lastModified: new Date('2026-10-04'),
