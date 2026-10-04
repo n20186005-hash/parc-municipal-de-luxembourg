@@ -1,0 +1,464 @@
+{
+  "meta": {
+    "title": "Parc municipal de Luxembourg (Kinnekswiss) : horaires, accès et carte",
+    "description": "Tout pour préparer votre visite : pelouse Kinnekswiss, aires de jeux, entrée gratuite, horaires, tram et bus, stationnement, pique-nique et événements."
+  },
+  "header": {
+    "siteName": "Parc municipal de Luxembourg",
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil",
+    "kinnekswiss": "Kinnekswiss",
+    "picnic": "Pique-nique",
+    "playground": "Aire de jeux",
+    "events": "Événements",
+    "directions": "Accès",
+    "nearby": "Aux alentours",
+    "topicsLabel": "Explorer le parc"
+  },
+  "hero": {
+    "title": "Parc municipal de Luxembourg",
+    "subtitle": "Kinnekswiss · Parc Edouard André · Ville-Haute, Luxembourg",
+    "rating": "4,6",
+    "reviewCount": "6 456 avis Google",
+    "hours": "Ouvert tous les jours · entrée gratuite",
+    "openMaps": "Voir l'emplacement",
+    "badgeFree": "Entrée gratuite",
+    "badgePlayground": "Aires de jeux",
+    "badgePicnic": "Pelouses",
+    "badgeDuration": "1 à 2 heures",
+    "ratingNote": "Note Google Maps · vérifiée en octobre 2026"
+  },
+  "intro": {
+    "title": "Le parc en bref",
+    "description": "Le parc municipal de Luxembourg est le parc historique de la capitale. Il a été aménagé entre 1871 et 1878 par le paysagiste français Édouard André sur les anciens remparts libérés après le traité de Londres de 1867, qui ordonna la démolition de la forteresse. C'est le poumon vert de la Ville-Haute : vastes pelouses, arbres centenaires, kiosque, orangerie, groupes sculptés et deux villas — la Villa Vauban, aujourd'hui musée d'art, et la Villa Louvigny.\n\nLes Luxembourgeois appellent la grande pelouse centrale la Kinnekswiss, « la prairie du Roi ». C'est là que la ville organise les concerts en plein air, le Spillfest pour les enfants et le programme estival Kinnekswiss Loves. En semaine, le parc est simplement un lieu de promenade, de sieste à l'ombre, de jeux pour les enfants et de déjeuner sur l'herbe, à cinq minutes des rues commerçantes de la Ville-Haute.",
+    "visitGuide": {
+      "title": "À savoir avant de venir",
+      "items": [
+        "Entrée gratuite : le parc, les pelouses et les aires de jeux ne coûtent rien",
+        "Les matins en semaine et les fins d'après-midi sont les plus calmes ; les week-ends d'été à la Kinnekswiss sont animés",
+        "Les allées sont pour la plupart planes et revêtues : poussettes et fauteuils roulants passent facilement",
+        "Les transports publics sont gratuits en 2e classe au Luxembourg : aucun ticket pour le tram ou le bus",
+        "L'ombre est abondante sous les vieux arbres ; prévoyez de l'eau lors des journées chaudes"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Autres noms",
+      "items": [
+        "Parc municipal de Luxembourg — nom officiel",
+        "Parc Edouard André — d'après son concepteur",
+        "Kinnekswiss — nom luxembourgeois de la grande pelouse",
+        "Stadtpark — nom allemand du parc municipal",
+        "Municipal Park of Luxembourg — nom anglais"
+      ]
+    }
+  },
+  "kinnekswiss": {
+    "title": "La Kinnekswiss — la prairie du Roi",
+    "lead": "La Kinnekswiss est la grande pelouse ouverte au cœur du parc municipal. En luxembourgeois, le nom signifie « la prairie du Roi » : c'est l'espace le plus connu du parc, celui dont on parle quand on dit « on se retrouve à la Kinnekswiss ».",
+    "paragraphs": [
+      "La pelouse se trouve au centre du parc, à quelques minutes de marche de l'entrée du boulevard Joseph II et de la Villa Vauban. Plate, dégagée et bordée d'arbres âgés, elle sert aussi bien pour un pique-nique, une partie de football, une pause déjeuner pour les employés du quartier que pour un concert en plein air.",
+      "La Ville de Luxembourg utilise la Kinnekswiss comme l'une de ses principales salles à ciel ouvert. Le programme estival Kinnekswiss Loves y propose concerts, projections et activités sportives ; le Spillfest, la fête gratuite du jeu pour les enfants, s'y tient également ; en hiver, on y a installé des patinoires et le Wanterpark. En dehors des dates d'événements, c'est une simple pelouse publique : gratuite, sans réservation."
+    ],
+    "bullets": [
+      "Où : au centre du parc municipal, à environ 5 min à pied de l'entrée Bd Joseph II",
+      "Quoi : grande pelouse dégagée bordée d'arbres matures",
+      "Gratuit : sans réservation ni droit d'entrée, aux horaires du parc",
+      "Événements : Kinnekswiss Loves, Spillfest, patinoire d'hiver et Wanterpark",
+      "Accès : tram T1 jusqu'à Hamilius ou Stäreplaz/Étoile, puis 5 à 10 minutes à pied"
+    ],
+    "linkLabel": "Guide complet de la Kinnekswiss",
+    "linkText": "Kinnekswiss : situation, événements et accès"
+  },
+  "thingsToDo": {
+    "title": "Que faire dans le parc",
+    "subtitle": "Des guides courts pour les questions que l'on se pose vraiment",
+    "items": [
+      {
+        "slug": "picnic",
+        "title": "Pique-nique",
+        "desc": "Meilleures pelouses, ombre, toilettes, règles et à emporter."
+      },
+      {
+        "slug": "playground",
+        "title": "Aire de jeux",
+        "desc": "Le bateau pirate, les âges, le sol et les toilettes à proximité."
+      },
+      {
+        "slug": "events",
+        "title": "Événements",
+        "desc": "Kinnekswiss Loves, Spillfest et le programme d'hiver."
+      },
+      {
+        "slug": "nearby-attractions",
+        "title": "Aux alentours",
+        "desc": "Villa Vauban, la vieille ville, la vallée de la Pétrusse et le Grund."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Histoire, paysage et ce que vous verrez",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Du rempart au jardin public (1871–1878)",
+        "content": "Après le traité de Londres de 1867, la forteresse de Luxembourg est démantelée et la ceinture de remparts autour de la ville haute devient disponible. La commune décide d'y créer un jardin public. Le paysagiste français Édouard André est chargé du projet et le parc est aménagé entre 1871 et 1878 : c'est pourquoi la Ville de Luxembourg l'appelle encore aujourd'hui le « parc municipal Edouard André ».\n\nLe parc a depuis été adapté plusieurs fois : l'orangerie, le kiosque, les groupes sculptés et les aires de jeux sont venus s'y ajouter, et deux bâtiments historiques se dressent à l'intérieur de son périmètre. La Villa Louvigny a abrité la radio-télévision luxembourgeoise et accueilli le Concours Eurovision de la chanson en 1962 et 1966. La Villa Vauban, premier siège de la Cour de justice des Communautés européennes, est aujourd'hui le musée d'art de la ville."
+      },
+      {
+        "id": "architecture",
+        "title": "Un jardin paysager anglais au cœur de la ville",
+        "content": "André a dessiné le parc dans le style paysager anglais : allées courbes, bosquets irréguliers, larges pelouses et plans d'eau d'allure naturelle, à l'opposé de la géométrie rigide du jardin à la française. Le résultat donne l'impression d'être à la campagne alors que l'on se trouve dans la ville haute bâtie.\n\nLes platanes, marronniers et hêtres matures ombragent l'essentiel du parc, les allées sont larges et majoritairement planes, et les pelouses — la Kinnekswiss surtout — offrent un espace ouvert rare aussi près du centre. Les sculptures, l'orangerie et les deux villas rythment la promenade sans rompre la verdure."
+      },
+      {
+        "id": "culture",
+        "title": "Un lieu de vie et de fêtes",
+        "content": "Depuis des générations, le parc est le point de rendez-vous de la capitale : pause déjeuner sur l'herbe, joggeurs sur la boucle extérieure, familles aux aires de jeux, étudiants révisant sous les arbres et culture en plein air l'été. C'est l'un des principaux lieux culturels gratuits de la ville : la Kinnekswiss accueille concerts, projections, le Spillfest et, en hiver, des installations saisonnières.\n\nCentral, gratuit et facile d'accès, le parc constitue aussi un point de départ ou d'arrivée naturel pour une visite à pied de la Ville-Haute : la vieille ville, le Palais grand-ducal et la vallée de la Pétrusse sont à quelques minutes."
+      },
+      {
+        "id": "experience",
+        "title": "Une promenade simple",
+        "content": "Entrez par le boulevard Joseph II, suivez l'allée principale jusqu'à la Kinnekswiss, poursuivez vers la Villa Vauban et l'orangerie, puis revenez par les aires de jeux et le kiosque. À allure tranquille, comptez une heure ; deux heures avec un pique-nique ou une visite de la Villa Vauban.\n\nLa fin d'après-midi offre la plus belle lumière et permet de voir le parc tel que les habitants l'utilisent. Le matin est plus calme et plus frais en été. Le parc est agréable toute l'année, mais les couleurs de septembre et octobre valent le détour."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations pratiques",
+    "officialName": "Nom officiel",
+    "officialNameValue": "Parc municipal de Luxembourg (Parc Edouard André)",
+    "type": "Type",
+    "typeValue": "Parc urbain · jardin paysager historique",
+    "location": "Situation",
+    "locationValue": "Ville-Haute, Luxembourg, Grand-Duché de Luxembourg",
+    "googleRating": "Note Google",
+    "ratingNote": "Note Google Maps · vérifiée en octobre 2026",
+    "address": "Adresse",
+    "addressValue": "38 Bd Joseph II, 1840 Ville-Haute Luxembourg",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "J47F+95 Luxembourg",
+    "managedBy": "Gestionnaire",
+    "managedByValue": "Ville de Luxembourg",
+    "visitTime": "Durée conseillée",
+    "visitTimeValue": "1 à 2 heures"
+  },
+  "hours": {
+    "title": "Horaires d'ouverture",
+    "outdoor": "Parc, pelouses et allées",
+    "outdoorTime": "Ouvert tous les jours, accès libre",
+    "lighthouse": "Aires de jeux",
+    "summer": "Aux heures de jour",
+    "summerTime": "Les heures de fermeture sont fixées selon la saison par la Ville",
+    "winter": "Orangerie et pavillons temporaires",
+    "winterTime": "Uniquement pendant les expositions et événements",
+    "warning": "Zones d'événements (Kinnekswiss)",
+    "warningTime": "Fermées au public pendant le montage et le déroulement des manifestations",
+    "tip": "La Ville publie les horaires en vigueur du parc et des aires de jeux sur vdl.lu : à vérifier avant une visite en soirée."
+  },
+  "tickets": {
+    "title": "Le parc municipal est-il gratuit ?",
+    "outdoor": "Parc, pelouses, allées et aires de jeux",
+    "outdoorPrice": "Gratuit — sans billet ni droit d'entrée",
+    "lighthouse": "Ce qui peut être payant",
+    "adults": "Villa Vauban — musée d'art",
+    "adultsPrice": "Billet de musée séparé",
+    "students": "Expositions à l'orangerie",
+    "studentsPrice": "Selon l'événement",
+    "children": "Visites guidées et concerts",
+    "childrenPrice": "Certains gratuits, d'autres payants",
+    "card": "LuxembourgCard",
+    "cardPrice": "Couvre ou réduit l'entrée de plusieurs musées de la ville, dont la Villa Vauban"
+  },
+  "transport": {
+    "title": "Comment venir",
+    "airport": "Depuis l'aéroport de Luxembourg (Findel)",
+    "airportDesc": "Prenez le tram T1 directement à l'arrêt Findel – Luxembourg Airport en direction du centre-ville. Descendez à Hamilius ou Stäreplaz/Étoile et marchez 5 à 10 minutes jusqu'à l'entrée du boulevard Joseph II : environ 30 minutes au total. Les transports publics sont gratuits en 2e classe depuis 2020, aucun titre de transport n'est nécessaire.",
+    "selfDrive": "En tram (recommandé)",
+    "selfDriveDesc": "Le tram T1 traverse la ville et dessert Hamilius et Stäreplaz/Étoile, tous deux à quelques minutes du parc. Le service est fréquent en journée et gratuit en 2e classe.",
+    "bus": "En bus",
+    "busDesc": "Plusieurs lignes de bus urbains desservent les arrêts autour du boulevard Royal, de l'avenue Émile Reuter et de Hamilius, à quelques minutes à pied des entrées du parc. Consultez mobiliteit.lu ou l'application Mobilitéit pour les lignes et horaires à jour.",
+    "intercity": "À pied depuis le centre",
+    "intercityDesc": "Le parc est à 5 minutes de la place Guillaume II et à une dizaine de minutes du Palais grand-ducal : il s'intègre naturellement à une visite à pied de la ville haute.",
+    "cycling": "À vélo",
+    "cyclingDesc": "Des pistes cyclables et des stations de vélos en libre-service sont disponibles autour de la ville haute ; les allées du parc sont planes et faciles à parcourir, mais il convient de rouler au pas sur les plus fréquentées.",
+    "tips": "Transports publics gratuits",
+    "tipsDesc": "Depuis 2020, les bus, les trams et les trains en 2e classe sont gratuits dans tout le Luxembourg, pour les résidents comme pour les visiteurs. La 1re classe des trains et quelques services spéciaux restent payants."
+  },
+  "parking": {
+    "title": "Se garer près du parc",
+    "lead": "Le parc se trouve dans un quartier central dense : la voiture est l'option la moins pratique. Si vous conduisez, utilisez l'un des parkings souterrains de la ville et terminez à pied.",
+    "items": [
+      "Hamilius — le grand parking le plus proche, à quelques minutes du parc",
+      "Royal / boulevard Royal — pratique pour les entrées nord",
+      "Glacis — parking de surface payant, utilisé lors des grandes manifestations",
+      "Parking Beggen — option de type parc-relais reliée au tram et au bus les jours d'événement"
+    ],
+    "note": "Le stationnement en voirie dans la Ville-Haute est limité et surtout de courte durée. Les jours d'événement à la Kinnekswiss, la Ville conseille d'arriver en transports publics."
+  },
+  "route": {
+    "title": "Un parcours d'une heure",
+    "overview": "Entrez par le boulevard Joseph II, rejoignez la Kinnekswiss, poursuivez vers la Villa Vauban et l'orangerie, puis revenez par les aires de jeux. Environ 1 heure à rythme tranquille, 2 heures avec un pique-nique ou une visite de musée.",
+    "supplementsTitle": "Règles de visite",
+    "steps": [
+      "Arrivez à Hamilius ou Stäreplaz/Étoile et marchez jusqu'à l'entrée Bd Joseph II",
+      "Suivez l'allée principale sous les arbres jusqu'à la pelouse de la Kinnekswiss",
+      "Continuez vers l'orangerie et le kiosque",
+      "Passez devant la Villa Vauban et la Villa Louvigny",
+      "Revenez par les aires de jeux et le jardin de sculptures",
+      "Sortez vers la vieille ville, la place Guillaume II ou la vallée de la Pétrusse"
+    ],
+    "supplements": [
+      "Restez sur les allées lorsque c'est indiqué et respectez les pelouses fermées pendant les événements",
+      "Les chiens sont admis s'ils sont tenus ; la Ville demande aux maîtres de ramasser les déjections",
+      "Le vélo est toléré sur les allées principales à allure modérée, pas sur les pelouses",
+      "Ne cueillez pas les plantes, n'escaladez pas les sculptures et n'allumez pas de feu",
+      "Les bouteilles en verre et les barbecues ne font pas partie des usages du parc"
+    ]
+  },
+  "photoSpots": {
+    "title": "Où photographier",
+    "spots": [
+      {
+        "name": "La pelouse de la Kinnekswiss",
+        "desc": "Herbe ouverte encadrée de vieux arbres : la vue classique du parc"
+      },
+      {
+        "name": "L'allée principale arborée",
+        "desc": "Belle profondeur et lumière tamisée, surtout le matin"
+      },
+      {
+        "name": "L'étang et les plans d'eau",
+        "desc": "Reflets et oiseaux d'eau, compositions calmes"
+      },
+      {
+        "name": "Les groupes sculptés",
+        "desc": "La pierre contre la verdure, idéal pour les détails"
+      },
+      {
+        "name": "Villa Vauban et Villa Louvigny",
+        "desc": "Architecture encadrée par les arbres, à quelques minutes l'une de l'autre"
+      }
+    ],
+    "tips": "Conseils photo",
+    "tipsContent": "La fin d'après-midi donne la lumière la plus chaude sur les pelouses ; les matins en semaine permettent des images sans foule. Les drones sont interdits au-dessus du parc. Demandez l'autorisation avant de photographier des enfants sur les aires de jeux."
+  },
+  "nearby": {
+    "title": "Aux alentours",
+    "subtitle": "À 5–15 minutes à pied du parc",
+    "items": [
+      {
+        "name": "Villa Vauban – Musée d'Art de la Ville",
+        "desc": "Musée d'art municipal installé dans le parc, dans une villa du XIXe siècle"
+      },
+      {
+        "name": "Place Guillaume II (Knuedler)",
+        "desc": "Grande place de la ville haute avec l'hôtel de ville et des terrasses"
+      },
+      {
+        "name": "Palais grand-ducal",
+        "desc": "Résidence officielle du Grand-Duc, dans la rue principale de la vieille ville"
+      },
+      {
+        "name": "Vallée de la Pétrusse",
+        "desc": "Parc encaissé le long de la rivière, en contrebas de la ville haute"
+      },
+      {
+        "name": "Chemin de la Corniche",
+        "desc": "Terrasse panoramique sur le Grund, surnommée le plus beau balcon d'Europe"
+      },
+      {
+        "name": "Le Grund",
+        "desc": "Ancien quartier riverain au pied des falaises, accessible à pied ou par ascenseur"
+      }
+    ],
+    "moreLabel": "Guide complet des alentours"
+  },
+  "hotels": {
+    "title": "Où dormir à proximité",
+    "hotels": [
+      {
+        "name": "Hôtels historiques de la ville haute",
+        "desc": "Maisons de ville rénovées près de la place Guillaume II et du parc",
+        "price": "Prix selon la saison"
+      },
+      {
+        "name": "Hôtels d'affaires près de la gare",
+        "desc": "Liaison directe en tram vers le parc, souvent moins chers le week-end",
+        "price": "Prix selon la saison"
+      },
+      {
+        "name": "Petits B&B de la Ville-Haute",
+        "desc": "Rues calmes à distance de marche des entrées du parc",
+        "price": "Prix selon la saison"
+      }
+    ],
+    "supplements": "Conseils de réservation",
+    "supplementsContent": "Luxembourg-Ville est compacte : depuis la Ville-Haute ou la gare, le parc est à quelques minutes à pied ou en tram. Les tarifs montent pendant les semaines institutionnelles européennes et en été : réservez tôt si vos dates sont fixes."
+  },
+  "gallery": {
+    "title": "Galerie photos",
+    "subtitle": "Le parc municipal de Luxembourg au fil des saisons",
+    "captions": [
+      "Panorama du parc",
+      "Allée arborée",
+      "La pelouse de la Kinnekswiss",
+      "Étang et plans d'eau",
+      "Arbres matures",
+      "Sculptures du jardin",
+      "Villa Vauban",
+      "Vues du jardin",
+      "Entrée du parc",
+      "Allée du jardin",
+      "Orangerie",
+      "Lumière du soir",
+      "Bancs à l'ombre"
+    ],
+    "viewAll": "Voir plus de photos sur Google Maps"
+  },
+  "reviews": {
+    "title": "Note des visiteurs",
+    "declaration": "Ce site n'est pas une plateforme d'avis. La note ci-dessous est la note publique de Google Maps pour le parc, donnée à titre indicatif : les avis, photos et horaires à jour se trouvent sur Google Maps et sur vdl.lu.",
+    "checkLive": "Vérifier la note actuelle sur Google Maps",
+    "sourcesTitle": "Sources officielles",
+    "sources": [
+      "Ville de Luxembourg — parcs et espaces verts",
+      "Ville de Luxembourg — événements à la Kinnekswiss",
+      "Mobilitéit — réseau et tarifs des transports publics",
+      "Visit Luxembourg — office national du tourisme"
+    ]
+  },
+  "mapSection": {
+    "title": "Carte et itinéraire",
+    "subtitle": "38 Bd Joseph II, 1840 Ville-Haute Luxembourg · Plus Code J47F+95 Luxembourg",
+    "openMaps": "Ouvrir dans Google Maps"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "q": "L'entrée du parc municipal de Luxembourg est-elle gratuite ?",
+        "a": "Oui. Le parc, ses pelouses, ses allées et ses aires de jeux sont gratuits et ouverts à tous. Seuls les musées et certains événements organisés dans les bâtiments du parc sont payants."
+      },
+      {
+        "q": "Quels sont les horaires du parc municipal de Luxembourg ?",
+        "a": "Le parc est ouvert tous les jours avec un accès libre. La Ville fixe des heures de fermeture saisonnières pour les aires de jeux et ferme une partie de la pelouse de la Kinnekswiss pendant le montage et le déroulement des événements : vérifiez vdl.lu avant une visite tardive."
+      },
+      {
+        "q": "Qu'est-ce que la Kinnekswiss ?",
+        "a": "La Kinnekswiss est la grande pelouse centrale du parc municipal de Luxembourg. En luxembourgeois, ce nom signifie « la prairie du Roi ». Elle sert aux pique-niques, aux jeux de balle et constitue le principal lieu d'événements en plein air de la ville."
+      },
+      {
+        "q": "Comment rejoindre le parc municipal en transports publics ?",
+        "a": "Prenez le tram T1 jusqu'à Hamilius ou Stäreplaz/Étoile, puis marchez 5 à 10 minutes jusqu'à l'entrée du boulevard Joseph II. Plusieurs bus desservent également le boulevard Royal et l'avenue Émile Reuter. Les transports publics sont gratuits en 2e classe au Luxembourg."
+      },
+      {
+        "q": "Comment venir depuis l'aéroport de Luxembourg ?",
+        "a": "Le tram T1 relie directement l'arrêt Findel – Luxembourg Airport au centre-ville. Descendez à Hamilius ou Stäreplaz/Étoile et marchez jusqu'au parc : environ 30 minutes au total, gratuitement en 2e classe."
+      },
+      {
+        "q": "Peut-on pique-niquer au parc municipal de Luxembourg ?",
+        "a": "Oui, pique-niquer sur les pelouses est une habitude locale, en particulier à la Kinnekswiss. Apportez une couverture, remportez vos déchets et évitez les zones fermées pour cause d'événement."
+      },
+      {
+        "q": "Y a-t-il une aire de jeux dans le parc ?",
+        "a": "Oui, le parc compte plusieurs aires de jeux, dont une structure en forme de bateau pirate bien connue, ainsi que des pelouses ouvertes pour les jeux de balle. Elles sont gratuites et ouvertes aux horaires affichés par la Ville."
+      },
+      {
+        "q": "Où se garer près du parc municipal ?",
+        "a": "Le parking Hamilius est le plus proche ; Royal et Glacis sont également accessibles à pied. Le stationnement en voirie dans la Ville-Haute est limité et surtout de courte durée ; les jours d'événement, les transports publics sont plus simples."
+      },
+      {
+        "q": "Combien de temps prévoir pour la visite ?",
+        "a": "Une heure suffit pour faire le tour du parc ; comptez deux heures avec un pique-nique ou la visite de la Villa Vauban. Ajoutez la vieille ville pour une demi-journée."
+      },
+      {
+        "q": "Les chiens sont-ils admis dans le parc ?",
+        "a": "Oui, à condition d'être tenus et que les déjections soient ramassées. Ils ne doivent pas accéder aux aires de jeux."
+      }
+    ]
+  },
+  "footer": {
+    "siteName": "Parc municipal de Luxembourg",
+    "rights": "© 2026 Parc municipal de Luxembourg — guide de visite indépendant.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Paramètres des cookies",
+    "officialResourcesTitle": "Sources officielles et références",
+    "officialLinks": {
+      "visitLuxembourg": "Visit Luxembourg",
+      "visitLuxembourgCity": "Office du tourisme de Luxembourg-Ville",
+      "cityParks": "Ville de Luxembourg — parcs",
+      "kinnekswiss": "Ville de Luxembourg — événements Kinnekswiss",
+      "mobiliteit": "Mobilitéit — transports publics"
+    },
+    "disclaimer": "Ce site est un guide de visite indépendant et non commercial. Il n'est affilié ni à la Ville de Luxembourg ni à aucun organisme officiel. Les horaires, événements et tarifs sont vérifiés auprès des sources officielles et peuvent changer : confirmez-les sur vdl.lu avant votre visite.",
+    "topicsTitle": "Guides du parc"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : octobre 2026",
+    "sections": [
+      {
+        "heading": "1. Données collectées",
+        "content": "Ce site est un guide informationnel statique. Nous ne gérons pas de comptes utilisateurs et ne demandons aucune donnée personnelle. Les journaux serveur standard (adresse IP, agent utilisateur, page demandée) peuvent être conservés par notre hébergeur pour la sécurité et la disponibilité."
+      },
+      {
+        "heading": "2. Cookies",
+        "content": "Nous utilisons uniquement un stockage essentiel pour mémoriser votre choix de thème. Aucun cookie publicitaire ou de suivi intersite n'est déposé par ce site. Les contenus intégrés (par exemple Google Maps) relèvent des politiques de leurs fournisseurs."
+      },
+      {
+        "heading": "3. Liens externes",
+        "content": "Les pages renvoient vers des sources officielles telles que vdl.lu, mobiliteit.lu et Google Maps. En suivant ces liens, la politique de confidentialité du site de destination s'applique."
+      },
+      {
+        "heading": "4. Contact",
+        "content": "Toute question relative à cette politique peut être posée via les coordonnées publiées dans les conditions d'utilisation. Nous mettons cette notice à jour à chaque évolution du site."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : octobre 2026",
+    "sections": [
+      {
+        "heading": "1. Nature du site",
+        "content": "Ce site est un guide de visite indépendant et non commercial du parc municipal de Luxembourg. Il n'est ni affilié, ni approuvé, ni exploité par la Ville de Luxembourg ou une autorité publique."
+      },
+      {
+        "heading": "2. Exactitude des informations",
+        "content": "Les horaires, dates d'événements et informations de transport proviennent de sources publiques et peuvent changer sans préavis. Vérifiez-les toujours sur les sites officiels indiqués avant votre visite."
+      },
+      {
+        "heading": "3. Utilisation du contenu",
+        "content": "Les textes peuvent être cités à des fins non commerciales avec mention de la source. Les photographies restent la propriété de leurs auteurs respectifs."
+      },
+      {
+        "heading": "4. Limitation de responsabilité",
+        "content": "Le site est fourni en l'état. Nous déclinons toute responsabilité pour les décisions prises sur la base des informations publiées ici, notamment l'organisation de déplacements et la participation à des événements."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des cookies",
+    "description": "Gérez ce que ce site enregistre dans votre navigateur.",
+    "essential": {
+      "title": "Stockage essentiel",
+      "description": "Mémorise votre thème (clair/sombre) et votre langue. Nécessaire au fonctionnement de base.",
+      "badge": "Toujours actif"
+    },
+    "analytics": {
+      "title": "Cookies analytiques",
+      "description": "Ce site ne charge actuellement aucun cookie d'analyse."
+    },
+    "marketing": {
+      "title": "Cookies marketing",
+      "description": "Ce site n'utilise aucun cookie publicitaire ni de suivi intersite."
+    },
+    "save": "Enregistrer mes préférences",
+    "saved": "Préférences enregistrées !"
+  },
+  "officialManagement": {
+    "title": "Qui entretient le parc",
+    "text": "Le parc municipal de Luxembourg est un parc public appartenant à la Ville de Luxembourg, qui l'entretient. La commune gère les pelouses, les aires de jeux, les arbres et le programme d'événements de la Kinnekswiss, et publie les horaires, dates d'événements et règles du parc sur vdl.lu.\n\nLe parc porte officiellement le nom de son concepteur, le paysagiste français Édouard André, et a été aménagé entre 1871 et 1878 sur les anciens remparts libérés après le traité de Londres de 1867."
+  }
+}

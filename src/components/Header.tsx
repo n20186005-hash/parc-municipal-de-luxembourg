@@ -1,12 +1,23 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
+import { localPath, type Locale } from '@/config/site';
+
+const NAV = [
+  { slug: 'kinnekswiss', key: 'kinnekswiss' },
+  { slug: 'picnic', key: 'picnic' },
+  { slug: 'playground', key: 'playground' },
+  { slug: 'events', key: 'events' },
+  { slug: 'how-to-get-there', key: 'directions' },
+  { slug: 'nearby-attractions', key: 'nearby' },
+] as const;
 
 export default function Header() {
   const t = useTranslations('header');
+  const locale = useLocale() as Locale;
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -25,21 +36,28 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href="/" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a href={localPath(locale, '/')} className="font-display text-base sm:text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
           {t('siteName')}
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden lg:flex items-center gap-5">
+          {NAV.map((item) => (
             <a
-              key={section}
-              href={`/#${section}`}
+              key={item.slug}
+              href={localPath(locale, `/${item.slug}`)}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
-              {t(section)}
+              {t(item.key)}
             </a>
           ))}
+          <a
+            href={`${localPath(locale, '/')}#map`}
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+          >
+            {t('map')}
+          </a>
         </nav>
 
         <div className="flex items-center gap-2">

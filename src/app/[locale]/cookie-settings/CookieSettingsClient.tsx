@@ -2,6 +2,7 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import { useState, useEffect } from 'react';
+import { localPath, type Locale } from '@/config/site';
 
 function CookieToggle({
   label,
@@ -52,8 +53,8 @@ function CookieToggle({
 export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
-  const locale = useLocale();
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const locale = useLocale() as Locale;
+  const homeHref = localPath(locale, '/');
 
   const [analytics, setAnalytics] = useState(false);
   const [marketing, setMarketing] = useState(false);

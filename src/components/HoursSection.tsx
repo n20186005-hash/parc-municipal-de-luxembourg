@@ -19,7 +19,7 @@ export default function HoursSection() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <TimeCard title={t('outdoor')} time={t('outdoorTime')} iconKey="outdoor" />
-          <TimeCard title={t('lighthouse')} time={t('summer')} timeValue={t('summerTime')} iconKey="lighthouse" />
+          <TimeCard title={t('lighthouse')} time={t('summer')} timeValue={t('summerTime')} iconKey="play" />
         </div>
 
         <div className="mb-6">
@@ -72,6 +72,12 @@ function TimeCard({ title, time, timeValue, iconKey }: { title: string; time?: s
         <path d="M18 12h4"/>
       </svg>
     ),
+    play: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <circle cx="12" cy="12" r="10"/>
+        <polygon points="10 8 16 12 10 16 10 8"/>
+      </svg>
+    ),
     calendar: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
         <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
@@ -91,7 +97,14 @@ function TimeCard({ title, time, timeValue, iconKey }: { title: string; time?: s
         {icons[iconKey]}
         <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>{title}</h3>
       </div>
-      <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time || timeValue}</p>
+      {time && timeValue ? (
+        <>
+          <p className="text-xs mb-1" style={{ color: 'var(--text-muted)' }}>{time}</p>
+          <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{timeValue}</p>
+        </>
+      ) : (
+        <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time || timeValue}</p>
+      )}
     </div>
   );
 }

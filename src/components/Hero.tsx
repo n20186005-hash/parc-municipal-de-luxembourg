@@ -1,7 +1,13 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
+import { ATTRACTION, type Locale } from '@/config/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const locale = useLocale() as Locale;
+  const rating = locale === 'en' ? '4.6' : locale === 'de' ? '4,6' : '4,6';
+  const reviews = ATTRACTION.googleReviewCount.toLocaleString(locale === 'de' ? 'de-DE' : locale === 'fr' ? 'fr-FR' : 'en-US');
+
+  const badges = ['badgeFree', 'badgePlayground', 'badgePicnic', 'badgeDuration'] as const;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -9,7 +15,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/images (1).jpg"
-          alt="Parc municipal de Luxembourg"
+          alt={ATTRACTION.name}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
@@ -25,14 +31,27 @@ export default function Hero() {
             {t('subtitle')}
           </p>
 
+          {/* Key facts — what mobile searchers look for first */}
+          <div className="flex flex-wrap items-center gap-2 mb-6 animate-fade-in-up animation-delay-150">
+            {badges.map((badge) => (
+              <span
+                key={badge}
+                className="text-white text-xs sm:text-sm font-medium rounded-full px-3 py-1.5"
+                style={{ background: 'rgba(255,255,255,0.16)', backdropFilter: 'blur(4px)' }}
+              >
+                {t(badge)}
+              </span>
+            ))}
+          </div>
+
           {/* Meta row */}
-          <div className="flex flex-wrap items-center gap-4 mb-8 animate-fade-in-up animation-delay-200">
+          <div className="flex flex-wrap items-center gap-4 mb-6 animate-fade-in-up animation-delay-200">
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="#f0b429" stroke="none">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
               </svg>
-              <span className="text-white text-sm font-medium">{t('rating')}</span>
-              <span className="text-white/60 text-xs">({t('reviewCount')})</span>
+              <span className="text-white text-sm font-medium">{rating}</span>
+              <span className="text-white/60 text-xs">({reviews})</span>
             </div>
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
@@ -42,7 +61,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('hours')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/G7Jrv5dPUZyc5SZBA"
+              href={ATTRACTION.mapsUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
@@ -54,6 +73,10 @@ export default function Hero() {
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
           </div>
+
+          <p className="text-xs text-white/60 animate-fade-in-up animation-delay-200">
+            {t('ratingNote')}
+          </p>
         </div>
       </div>
 

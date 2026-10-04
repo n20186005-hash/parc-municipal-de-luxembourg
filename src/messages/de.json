@@ -1,0 +1,464 @@
+{
+  "meta": {
+    "title": "Stadtpark Luxemburg (Kinnekswiss): Öffnungszeiten, Karte & Tipps",
+    "description": "Alles für Ihren Besuch: Kinnekswiss-Wiese, Spielplätze, freier Eintritt, Öffnungszeiten, Tram und Bus, Parken, Picknick und Veranstaltungen."
+  },
+  "header": {
+    "siteName": "Parc municipal de Luxembourg",
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "reviews": "Bewertung",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite",
+    "kinnekswiss": "Kinnekswiss",
+    "picnic": "Picknick",
+    "playground": "Spielplatz",
+    "events": "Veranstaltungen",
+    "directions": "Anfahrt",
+    "nearby": "Umgebung",
+    "topicsLabel": "Park entdecken"
+  },
+  "hero": {
+    "title": "Parc municipal de Luxembourg",
+    "subtitle": "Kinnekswiss · Parc Edouard André · Ville-Haute, Luxemburg-Stadt",
+    "rating": "4,6",
+    "reviewCount": "6.456 Google-Bewertungen",
+    "hours": "Täglich geöffnet · Eintritt frei",
+    "openMaps": "Standort ansehen",
+    "badgeFree": "Eintritt frei",
+    "badgePlayground": "Spielplätze",
+    "badgePicnic": "Picknickwiesen",
+    "badgeDuration": "1–2 Stunden",
+    "ratingNote": "Google-Maps-Bewertung · geprüft im Oktober 2026"
+  },
+  "intro": {
+    "title": "Über den Park",
+    "description": "Der Parc municipal de Luxembourg ist der historische Stadtpark der Hauptstadt. Er wurde zwischen 1871 und 1878 vom französischen Landschaftsarchitekten Édouard André auf den Festungswällen angelegt, die nach dem Londoner Vertrag von 1867 frei wurden, als die Festung geschleift wurde. Er ist die grüne Mitte der Oberstadt: weite Wiesen, alte Bäume, ein Musikpavillon, eine Orangerie, Skulpturengruppen und zwei Villen — die Villa Vauban, heute Kunstmuseum, und die Villa Louvigny.\n\nDie große zentrale Wiese heißt bei den Einheimischen Kinnekswiss, auf Luxemburgisch „die Wiese des Königs“. Dort finden die Open-Air-Konzerte der Stadt, das Kinderfest Spillfest und das Sommerprogramm Kinnekswiss Loves statt. Unter der Woche ist der Park einfach ein Ort zum Spazieren, zum Sitzen im Schatten, zum Spielen und für das Mittagessen im Gras — fünf Minuten von den Einkaufsstraßen der Oberstadt entfernt.",
+    "visitGuide": {
+      "title": "Gut zu wissen",
+      "items": [
+        "Eintritt frei: Park, Wiesen und Spielplätze kosten nichts",
+        "Werktags vormittags und am frühen Abend ist es am ruhigsten; Sommerwochenenden auf der Kinnekswiss sind voll",
+        "Die Wege sind überwiegend eben und befestigt — gut mit Kinderwagen und Rollstuhl",
+        "Der öffentliche Verkehr in Luxemburg ist in der 2. Klasse kostenlos, für Tram und Bus braucht man kein Ticket",
+        "Unter den alten Bäumen ist viel Schatten; an heißen Tagen Wasser mitnehmen"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Andere Bezeichnungen",
+      "items": [
+        "Parc municipal de Luxembourg — offizieller Name",
+        "Parc Edouard André — nach seinem Gestalter",
+        "Kinnekswiss — luxemburgischer Name der großen Wiese",
+        "Stadtpark — deutsche Bezeichnung",
+        "Municipal Park of Luxembourg — englischer Name"
+      ]
+    }
+  },
+  "kinnekswiss": {
+    "title": "Die Kinnekswiss — die Wiese des Königs",
+    "lead": "Die Kinnekswiss ist die große offene Wiese in der Mitte des Stadtparks. Auf Luxemburgisch bedeutet der Name „die Wiese des Königs“. Sie ist der bekannteste Ort im Park — genau die Wiese, die gemeint ist, wenn man sagt: „Treffen wir uns auf der Kinnekswiss“.",
+    "paragraphs": [
+      "Die Wiese liegt im Zentrum des Parks, wenige Gehminuten vom Eingang am Boulevard Joseph II und von der Villa Vauban entfernt. Weil sie flach, offen und von alten Bäumen umstanden ist, eignet sie sich gleichermaßen für ein Picknick, ein Fußballspiel, die Mittagspause der Büros im Viertel wie für ein Open-Air-Konzert.",
+      "Die Stadt Luxemburg nutzt die Kinnekswiss als einen ihrer wichtigsten Veranstaltungsorte im Freien. Das Sommerprogramm Kinnekswiss Loves bringt Konzerte, Filmvorführungen und Sportangebote auf die Wiese; das Spillfest, das kostenlose Kinderspielfest, findet hier statt; im Winter gab es Eislaufflächen und den Wanterpark. Außerhalb der Veranstaltungstermine ist die Wiese einfach öffentliche Grünfläche — kostenlos, ohne Anmeldung."
+    ],
+    "bullets": [
+      "Wo: in der Mitte des Stadtparks, rund 5 Gehminuten vom Eingang Bd Joseph II",
+      "Was: große offene Wiese mit altem Baumbestand am Rand",
+      "Kostenlos: keine Anmeldung, keine Gebühr, während der Öffnungszeiten",
+      "Veranstaltungen: Kinnekswiss Loves, Spillfest, Wintereisbahn und Wanterpark",
+      "Anfahrt: Tram T1 bis Hamilius oder Stäreplaz/Étoile, dann 5–10 Minuten zu Fuß"
+    ],
+    "linkLabel": "Vollständiger Kinnekswiss-Ratgeber",
+    "linkText": "Kinnekswiss: Lage, Veranstaltungen und Anfahrt"
+  },
+  "thingsToDo": {
+    "title": "Was man im Park tun kann",
+    "subtitle": "Kurze Ratgeber zu den Fragen, die wirklich gestellt werden",
+    "items": [
+      {
+        "slug": "picnic",
+        "title": "Picknick",
+        "desc": "Beste Wiesen, Schatten, Toiletten, Regeln und Packliste."
+      },
+      {
+        "slug": "playground",
+        "title": "Spielplatz",
+        "desc": "Das Piratenschiff, Altersgruppen, Untergrund und Toiletten in der Nähe."
+      },
+      {
+        "slug": "events",
+        "title": "Veranstaltungen",
+        "desc": "Kinnekswiss Loves, Spillfest und das Winterprogramm."
+      },
+      {
+        "slug": "nearby-attractions",
+        "title": "In der Umgebung",
+        "desc": "Villa Vauban, Altstadt, Pétrusse-Tal und Grund."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Geschichte, Gestaltung und was Sie sehen",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Vom Festungswall zum Volksgarten (1871–1878)",
+        "content": "Nach dem Londoner Vertrag von 1867 wurde die Festung Luxemburg geschleift und der Wallring um die Oberstadt frei. Die Stadt beschloss, daraus einen öffentlichen Garten zu machen. Beauftragt wurde der französische Landschaftsarchitekt Édouard André; der Park entstand zwischen 1871 und 1878 — deshalb nennt die Stadt Luxemburg ihn heute noch „Parc municipal Edouard André“.\n\nSeither wurde der Park mehrfach angepasst: Orangerie, Musikpavillon, Skulpturengruppen und Spielplätze kamen hinzu, und zwei historische Gebäude stehen auf seinem Gelände. Die Villa Louvigny beherbergte den luxemburgischen Rundfunk und war 1962 und 1966 Austragungsort des Eurovision Song Contest. Die Villa Vauban, erster Sitz des Europäischen Gerichtshofs, ist heute das Kunstmuseum der Stadt."
+      },
+      {
+        "id": "architecture",
+        "title": "Ein englischer Landschaftsgarten mitten in der Stadt",
+        "content": "André gestaltete den Park im englischen Landschaftsstil: geschwungene Wege, locker gesetzte Baumgruppen, weite Wiesen und natürlich wirkende Wasserflächen anstelle der strengen Geometrie eines französischen Barockgartens. So wirkt der Park wie Landschaft, obwohl er mitten in der bebauten Oberstadt liegt.\n\nAlte Platanen, Kastanien und Buchen beschatten den größten Teil der Anlage, die Wege sind breit und weitgehend eben, und die Wiesen — vor allem die Kinnekswiss — bieten eine Offenfläche, die es so nah am Zentrum selten gibt. Skulpturen, Orangerie und die beiden Villen setzen Akzente, ohne das Grün zu unterbrechen."
+      },
+      {
+        "id": "culture",
+        "title": "Alltag und Veranstaltungsort",
+        "content": "Seit Generationen ist der Park der Treffpunkt der Stadt: Mittagspause im Gras, Jogger auf der Außenrunde, Familien an den Spielplätzen, Studierende unter den Bäumen und im Sommer Kultur im Freien. Er ist einer der wichtigsten kostenlosen Kulturorte der Stadt: Auf der Kinnekswiss gibt es Konzerte, Filmvorführungen, das Spillfest und im Winter saisonale Installationen.\n\nWeil der Park zentral, kostenlos und gut erreichbar ist, ist er ein natürlicher Start- oder Endpunkt für einen Rundgang durch die Oberstadt: Altstadt, Großherzoglicher Palast und Pétrusse-Tal liegen wenige Minuten entfernt."
+      },
+      {
+        "id": "experience",
+        "title": "Ein einfacher Rundgang",
+        "content": "Vom Boulevard Joseph II hinein, auf dem Hauptweg zur Kinnekswiss, weiter zur Villa Vauban und zur Orangerie und zurück über die Spielplätze und den Pavillonbereich. In ruhigem Tempo dauert das etwa eine Stunde; mit Picknick oder Museumsbesuch zwei.\n\nAm besten ist der späte Nachmittag, wenn das Licht warm ist und man den Park so erlebt, wie die Einheimischen ihn nutzen. Vormittags ist es ruhiger und im Sommer kühler. Der Park ist das ganze Jahr über sehenswert, besonders schön jedoch im September und Oktober."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Auf einen Blick",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Parc municipal de Luxembourg (Parc Edouard André)",
+    "type": "Art",
+    "typeValue": "Stadtpark · historischer Landschaftsgarten",
+    "location": "Lage",
+    "locationValue": "Ville-Haute, Luxemburg-Stadt, Großherzogtum Luxemburg",
+    "googleRating": "Google-Bewertung",
+    "ratingNote": "Google-Maps-Bewertung · geprüft im Oktober 2026",
+    "address": "Adresse",
+    "addressValue": "38 Bd Joseph II, 1840 Ville-Haute Luxembourg",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "J47F+95 Luxembourg",
+    "managedBy": "Träger",
+    "managedByValue": "Stadt Luxemburg (Ville de Luxembourg)",
+    "visitTime": "Empfohlene Dauer",
+    "visitTimeValue": "1–2 Stunden"
+  },
+  "hours": {
+    "title": "Öffnungszeiten",
+    "outdoor": "Park, Wiesen und Wege",
+    "outdoorTime": "Täglich geöffnet, freier Zugang",
+    "lighthouse": "Spielplätze",
+    "summer": "Während der Tagesstunden",
+    "summerTime": "Die Schließzeiten werden von der Stadt saisonal festgelegt",
+    "winter": "Orangerie und temporäre Pavillons",
+    "winterTime": "Nur während Ausstellungen und Veranstaltungen",
+    "warning": "Veranstaltungsflächen (Kinnekswiss)",
+    "warningTime": "Während Auf- und Abbau sowie während der Veranstaltungen gesperrt",
+    "tip": "Die aktuellen Schließzeiten von Park und Spielplätzen veröffentlicht die Stadt auf vdl.lu — vor einem späten Besuch lohnt ein Blick darauf."
+  },
+  "tickets": {
+    "title": "Ist der Stadtpark Luxemburg kostenlos?",
+    "outdoor": "Park, Wiesen, Wege und Spielplätze",
+    "outdoorPrice": "Kostenlos — kein Ticket, kein Eintritt",
+    "lighthouse": "Was kosten kann",
+    "adults": "Villa Vauban — Kunstmuseum",
+    "adultsPrice": "Eigenes Museumsticket",
+    "students": "Ausstellungen in der Orangerie",
+    "studentsPrice": "Je nach Veranstaltung",
+    "children": "Führungen und Konzerte",
+    "childrenPrice": "Teils kostenlos, teils kostenpflichtig",
+    "card": "LuxembourgCard",
+    "cardPrice": "Deckt mehrere Museen der Stadt ab oder reduziert sie, u. a. die Villa Vauban"
+  },
+  "transport": {
+    "title": "Anfahrt",
+    "airport": "Vom Flughafen Luxemburg (Findel)",
+    "airportDesc": "Nehmen Sie die Tram T1 direkt an der Haltestelle Findel – Luxembourg Airport in Richtung Innenstadt. Fahren Sie bis Hamilius oder Stäreplaz/Étoile und gehen Sie 5–10 Minuten zum Eingang am Bd Joseph II — insgesamt rund 30 Minuten. Der öffentliche Verkehr ist in Luxemburg seit 2020 in der 2. Klasse kostenlos, ein Ticket ist nicht nötig.",
+    "selfDrive": "Mit der Tram (empfohlen)",
+    "selfDriveDesc": "Die Tram T1 durchquert die Stadt und hält an Hamilius und Stäreplaz/Étoile, beide nur wenige Minuten vom Park entfernt. Tagsüber fahren die Bahnen häufig, und die Fahrt ist in der 2. Klasse kostenlos.",
+    "bus": "Mit dem Bus",
+    "busDesc": "Mehrere Stadtbuslinien bedienen die Haltestellen am Boulevard Royal, an der Avenue Émile Reuter und an Hamilius — alle wenige Gehminuten von den Parkeingängen entfernt. Aktuelle Linien und Fahrzeiten finden Sie unter mobiliteit.lu oder in der Mobilitéit-App.",
+    "intercity": "Zu Fuß aus der Innenstadt",
+    "intercityDesc": "Der Park liegt 5 Gehminuten von der Place Guillaume II und etwa 10 Minuten vom Großherzoglichen Palast entfernt und passt damit gut in einen Rundgang durch die Oberstadt.",
+    "cycling": "Mit dem Fahrrad",
+    "cyclingDesc": "Rund um die Oberstadt gibt es Radwege und Stationen des städtischen Fahrradverleihs; die Parkwege sind eben und gut befahrbar, auf den stark frequentierten Wiesenwegen sollte man jedoch schieben.",
+    "tips": "Kostenloser Nahverkehr",
+    "tipsDesc": "Seit 2020 sind Busse, Trams und Züge in der 2. Klasse in ganz Luxemburg für alle kostenlos — für Einheimische wie für Gäste. Die 1. Klasse in Zügen und einzelne Sonderdienste bleiben kostenpflichtig."
+  },
+  "parking": {
+    "title": "Parken in der Nähe",
+    "lead": "Der Park liegt in einem dichten Innenstadtquartier; das Auto ist die unpraktischste Option. Wenn Sie fahren, nutzen Sie eines der städtischen Parkhäuser und gehen Sie die letzten Minuten zu Fuß.",
+    "items": [
+      "Hamilius — das nächstgelegene große Parkhaus, wenige Minuten vom Park",
+      "Royal / Boulevard Royal — günstig für die nördlichen Eingänge",
+      "Glacis — gebührenpflichtiger Parkplatz an der Oberfläche, bei Großveranstaltungen genutzt",
+      "Parking Beggen — Park-and-ride-Option mit Tram- und Busanschluss an Veranstaltungstagen"
+    ],
+    "note": "Parkplätze am Straßenrand sind in der Oberstadt knapp und meist kurzzeitbegrenzt. An Veranstaltungstagen auf der Kinnekswiss empfiehlt die Stadt die Anreise mit dem öffentlichen Verkehr."
+  },
+  "route": {
+    "title": "Ein Rundgang in einer Stunde",
+    "overview": "Hinein über den Boulevard Joseph II, zur Kinnekswiss, weiter zur Villa Vauban und zur Orangerie und zurück über die Spielplätze. Etwa 1 Stunde in ruhigem Tempo, 2 Stunden mit Picknick oder Museumsbesuch.",
+    "supplementsTitle": "Verhaltensregeln",
+    "steps": [
+      "Anfahrt bis Hamilius oder Stäreplaz/Étoile, dann zum Eingang Bd Joseph II",
+      "Auf dem Hauptweg unter den alten Bäumen zur Wiese der Kinnekswiss",
+      "Weiter zur Orangerie und zum Musikpavillon",
+      "Vorbei an Villa Vauban und Villa Louvigny",
+      "Zurück über die Spielplätze und den Skulpturengarten",
+      "Hinaus in die Altstadt, zur Place Guillaume II oder ins Pétrusse-Tal"
+    ],
+    "supplements": [
+      "Bleiben Sie auf den Wegen, wo dies ausgeschildert ist, und respektieren Sie während Veranstaltungen gesperrte Wiesen",
+      "Hunde sind erlaubt, müssen aber angeleint sein; die Stadt bittet darum, Hinterlassenschaften zu entfernen",
+      "Radfahren ist auf den Hauptwegen im Schritttempo geduldet, nicht über die Wiesen",
+      "Pflanzen nicht pflücken, Skulpturen nicht besteigen, kein Feuer machen",
+      "Glasflaschen und offenes Grillen gehören hier nicht zum üblichen Picknick"
+    ]
+  },
+  "photoSpots": {
+    "title": "Fotomotive",
+    "spots": [
+      {
+        "name": "Die Wiese Kinnekswiss",
+        "desc": "Offenes Gras, von alten Bäumen gerahmt — der klassische Blick auf den Park"
+      },
+      {
+        "name": "Baumallee des Hauptwegs",
+        "desc": "Viel Tiefe und geflecktes Licht, besonders am Morgen"
+      },
+      {
+        "name": "Teich und Wasserflächen",
+        "desc": "Spiegelungen und Wasservögel, ruhige Bildkompositionen"
+      },
+      {
+        "name": "Skulpturengruppen",
+        "desc": "Stein vor Grün — gut für Detailaufnahmen"
+      },
+      {
+        "name": "Villa Vauban und Villa Louvigny",
+        "desc": "Architektur, von Bäumen gerahmt, nur wenige Minuten voneinander entfernt"
+      }
+    ],
+    "tips": "Tipps zum Fotografieren",
+    "tipsContent": "Am späten Nachmittag ist das Licht auf den Wiesen am wärmsten; werktags am Morgen gelingen Aufnahmen ohne Menschen. Über dem Park sind Drohnen nicht erlaubt. Fragen Sie, bevor Sie Kinder auf den Spielplätzen fotografieren."
+  },
+  "nearby": {
+    "title": "In der Umgebung",
+    "subtitle": "Alles innerhalb von 5–15 Gehminuten",
+    "items": [
+      {
+        "name": "Villa Vauban – Musée d'Art de la Ville",
+        "desc": "Städtisches Kunstmuseum im Park, in einer Villa aus dem 19. Jahrhundert"
+      },
+      {
+        "name": "Place Guillaume II (Knuedler)",
+        "desc": "Hauptplatz der Oberstadt mit Rathaus und Cafés"
+      },
+      {
+        "name": "Großherzoglicher Palast",
+        "desc": "Offizielle Residenz des Großherzogs, in der Hauptstraße der Altstadt"
+      },
+      {
+        "name": "Pétrusse-Tal",
+        "desc": "Tief liegender Park entlang des Flusses, unterhalb der Oberstadt"
+      },
+      {
+        "name": "Chemin de la Corniche",
+        "desc": "Terrasse mit Blick über den Grund, „schönster Balkon Europas“ genannt"
+      },
+      {
+        "name": "Der Grund (Grund)",
+        "desc": "Altes Viertel am Fluss unterhalb der Felsen, zu Fuß oder mit dem Aufzug erreichbar"
+      }
+    ],
+    "moreLabel": "Vollständiger Umgebungsratgeber"
+  },
+  "hotels": {
+    "title": "Übernachten in der Nähe",
+    "hotels": [
+      {
+        "name": "Historische Hotels in der Oberstadt",
+        "desc": "Renovierte Stadthäuser nahe der Place Guillaume II und dem Park",
+        "price": "Preis je nach Saison"
+      },
+      {
+        "name": "Businesshotels am Bahnhof",
+        "desc": "Direkte Tramverbindung zum Park, am Wochenende oft günstiger",
+        "price": "Preis je nach Saison"
+      },
+      {
+        "name": "Kleine Pensionen in der Ville-Haute",
+        "desc": "Ruhige Straßen in Gehweite der Parkeingänge",
+        "price": "Preis je nach Saison"
+      }
+    ],
+    "supplements": "Buchungshinweise",
+    "supplementsContent": "Luxemburg-Stadt ist kompakt: Von der Oberstadt oder vom Bahnhof ist der Park zu Fuß oder mit der Tram in wenigen Minuten erreichbar. In den Wochen mit europäischen Institutionsterminen und im Sommer steigen die Preise — bei festen Reisedaten früh buchen."
+  },
+  "gallery": {
+    "title": "Bildergalerie",
+    "subtitle": "Der Stadtpark von Luxemburg im Lauf des Jahres",
+    "captions": [
+      "Panorama des Parks",
+      "Von Bäumen gesäumter Weg",
+      "Die Wiese Kinnekswiss",
+      "Teich und Wasserflächen",
+      "Alte Bäume",
+      "Skulpturen im Garten",
+      "Villa Vauban",
+      "Gartenansichten",
+      "Parkeingang",
+      "Gartenweg",
+      "Orangerie",
+      "Abendlicht",
+      "Bänke im Schatten"
+    ],
+    "viewAll": "Weitere Fotos auf Google Maps"
+  },
+  "reviews": {
+    "title": "Bewertung",
+    "declaration": "Diese Website ist kein Bewertungsportal. Die unten gezeigte Bewertung ist die öffentliche Google-Maps-Bewertung des Parks und dient nur als Orientierung: aktuelle Besuchermeinungen, Fotos und Öffnungszeiten finden Sie auf Google Maps und auf vdl.lu.",
+    "checkLive": "Aktuelle Bewertung auf Google Maps prüfen",
+    "sourcesTitle": "Offizielle Quellen",
+    "sources": [
+      "Stadt Luxemburg — Parks und Grünflächen",
+      "Stadt Luxemburg — Veranstaltungen auf der Kinnekswiss",
+      "Mobilitéit — Netz und Tarife des öffentlichen Verkehrs",
+      "Visit Luxembourg — nationale Tourismuszentrale"
+    ]
+  },
+  "mapSection": {
+    "title": "Karte und Anfahrt",
+    "subtitle": "38 Bd Joseph II, 1840 Ville-Haute Luxembourg · Plus Code J47F+95 Luxembourg",
+    "openMaps": "In Google Maps öffnen"
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "items": [
+      {
+        "q": "Ist der Eintritt zum Stadtpark Luxemburg frei?",
+        "a": "Ja. Park, Wiesen, Wege und Spielplätze sind kostenlos und für alle zugänglich. Nur die Museen und einzelne Veranstaltungen in den Gebäuden des Parks kosten Eintritt."
+      },
+      {
+        "q": "Welche Öffnungszeiten hat der Parc municipal de Luxembourg?",
+        "a": "Die Parkanlage ist täglich frei zugänglich. Für die Spielplätze legt die Stadt saisonale Schließzeiten fest, und Teile der Kinnekswiss sind während Auf- und Abbau sowie während Veranstaltungen gesperrt — prüfen Sie vdl.lu vor einem späten Besuch."
+      },
+      {
+        "q": "Was ist die Kinnekswiss?",
+        "a": "Die Kinnekswiss ist die große zentrale Wiese des Stadtparks von Luxemburg. Auf Luxemburgisch bedeutet der Name „die Wiese des Königs“. Sie wird für Picknicks, Ballspiele und als wichtigster Open-Air-Veranstaltungsort der Stadt genutzt."
+      },
+      {
+        "q": "Wie komme ich mit öffentlichen Verkehrsmitteln zum Park?",
+        "a": "Mit der Tram T1 bis Hamilius oder Stäreplaz/Étoile, dann 5–10 Minuten zu Fuß zum Eingang am Boulevard Joseph II. Mehrere Buslinien halten außerdem am Boulevard Royal und an der Avenue Émile Reuter. Der öffentliche Verkehr ist in Luxemburg in der 2. Klasse kostenlos."
+      },
+      {
+        "q": "Wie komme ich vom Flughafen Luxemburg zum Park?",
+        "a": "Die Tram T1 fährt direkt von der Haltestelle Findel – Luxembourg Airport in die Innenstadt. Steigen Sie an Hamilius oder Stäreplaz/Étoile aus und gehen Sie zum Park — rund 30 Minuten insgesamt, in der 2. Klasse kostenlos."
+      },
+      {
+        "q": "Kann man im Parc municipal de Luxembourg picknicken?",
+        "a": "Ja, Picknick auf den Wiesen ist hier völlig üblich, besonders auf der Kinnekswiss. Bringen Sie eine Decke mit, nehmen Sie Ihren Abfall wieder mit und meiden Sie die für Veranstaltungen gesperrten Flächen."
+      },
+      {
+        "q": "Gibt es einen Spielplatz im Park?",
+        "a": "Ja, der Park hat mehrere Spielplätze, darunter ein bekanntes Piratenschiff, sowie offene Wiesen für Ballspiele. Sie sind kostenlos und zu den von der Stadt veröffentlichten Zeiten geöffnet."
+      },
+      {
+        "q": "Wo kann ich in der Nähe des Parks parken?",
+        "a": "Am nächsten liegt das Parkhaus Hamilius; Royal und Glacis sind ebenfalls zu Fuß erreichbar. Parkplätze am Straßenrand sind in der Oberstadt knapp und meist kurzzeitbegrenzt; an Veranstaltungstagen ist der öffentliche Verkehr einfacher."
+      },
+      {
+        "q": "Wie viel Zeit sollte ich einplanen?",
+        "a": "Für einen Rundgang reicht eine Stunde; mit Picknick oder einem Besuch der Villa Vauban sind es zwei. Zusammen mit der Altstadt wird daraus ein halber Tag."
+      },
+      {
+        "q": "Sind Hunde im Park erlaubt?",
+        "a": "Ja, Hunde sind erlaubt, müssen aber angeleint sein, und Hinterlassenschaften sind zu entfernen. Auf die Spielplätze gehören sie nicht."
+      }
+    ]
+  },
+  "footer": {
+    "siteName": "Parc municipal de Luxembourg",
+    "rights": "© 2026 Parc municipal de Luxembourg — unabhängiger Besucherratgeber.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Offizielle Quellen",
+    "officialLinks": {
+      "visitLuxembourg": "Visit Luxembourg",
+      "visitLuxembourgCity": "Touristeninformation Luxemburg-Stadt",
+      "cityParks": "Stadt Luxemburg — Parks",
+      "kinnekswiss": "Stadt Luxemburg — Veranstaltungen auf der Kinnekswiss",
+      "mobiliteit": "Mobilitéit — öffentlicher Verkehr"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiger, nicht kommerzieller Besucherratgeber. Sie steht in keiner Verbindung zur Stadt Luxemburg oder einer anderen Behörde. Öffnungszeiten, Veranstaltungen und Tarife werden bei offiziellen Quellen geprüft und können sich ändern — bitte vor der Reise auf vdl.lu bestätigen.",
+    "topicsTitle": "Ratgeber zum Park"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2026",
+    "sections": [
+      {
+        "heading": "1. Erhobene Daten",
+        "content": "Diese Website ist ein statischer Informationsratgeber. Wir betreiben keine Nutzerkonten und fragen keine personenbezogenen Daten ab. Übliche Serverprotokolle (IP-Adresse, User-Agent, angeforderte Seite) können von unserem Hosting-Anbieter aus Sicherheits- und Verfügbarkeitsgründen gespeichert werden."
+      },
+      {
+        "heading": "2. Cookies",
+        "content": "Wir verwenden ausschließlich notwendige Speicherung, um Ihre Auswahl zu Theme und Sprache zu merken. Es werden keine Werbe- oder seitenübergreifenden Tracking-Cookies gesetzt. Eingebettete Inhalte (etwa Google Maps) unterliegen den Richtlinien des jeweiligen Anbieters."
+      },
+      {
+        "heading": "3. Externe Links",
+        "content": "Die Seiten verlinken auf offizielle Quellen wie vdl.lu, mobiliteit.lu und Google Maps. Folgen Sie diesen Links, gilt die Datenschutzerklärung der Zielseite."
+      },
+      {
+        "heading": "4. Kontakt",
+        "content": "Fragen zu dieser Erklärung können über die in den Nutzungsbedingungen veröffentlichten Kontaktdaten gestellt werden. Wir aktualisieren diesen Hinweis, sobald sich die Website ändert."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2026",
+    "sections": [
+      {
+        "heading": "1. Art der Website",
+        "content": "Diese Website ist ein unabhängiger, nicht kommerzieller Besucherratgeber zum Parc municipal de Luxembourg. Sie steht in keiner Verbindung zur Stadt Luxemburg oder einer Behörde und wird von diesen weder betrieben noch empfohlen."
+      },
+      {
+        "heading": "2. Richtigkeit der Angaben",
+        "content": "Öffnungszeiten, Veranstaltungsdaten und Verkehrsinformationen stammen aus öffentlichen Quellen und können sich jederzeit ändern. Prüfen Sie sie vor Ihrer Reise auf den verlinkten offiziellen Seiten."
+      },
+      {
+        "heading": "3. Nutzung der Inhalte",
+        "content": "Texte dieser Website dürfen zu nicht kommerziellen Zwecken mit Quellenangabe zitiert werden. Fotografien bleiben Eigentum ihrer jeweiligen Urheber."
+      },
+      {
+        "heading": "4. Haftungsbeschränkung",
+        "content": "Die Website wird wie besehen bereitgestellt. Wir übernehmen keine Haftung für Entscheidungen, die auf Grundlage der hier veröffentlichten Informationen getroffen werden, einschließlich Reiseplanung und Veranstaltungsbesuchen."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie, was diese Website in Ihrem Browser speichert.",
+    "essential": {
+      "title": "Notwendige Speicherung",
+      "description": "Speichert Ihre Auswahl zu Theme (hell/dunkel) und Sprache. Für die Grundfunktionen erforderlich.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse-Cookies",
+      "description": "Diese Website lädt derzeit keine Analyse-Cookies."
+    },
+    "marketing": {
+      "title": "Marketing-Cookies",
+      "description": "Diese Website verwendet keine Werbe- oder seitenübergreifenden Tracking-Cookies."
+    },
+    "save": "Einstellungen speichern",
+    "saved": "Einstellungen gespeichert!"
+  },
+  "officialManagement": {
+    "title": "Wer den Park betreut",
+    "text": "Der Parc municipal de Luxembourg ist eine öffentliche Anlage im Eigentum der Stadt Luxemburg, die sie auch pflegt. Die Stadt verantwortet Wiesen, Spielplätze, Baumbestand und das Veranstaltungsprogramm auf der Kinnekswiss und veröffentlicht die aktuellen Öffnungszeiten, Termine und Parkregeln auf vdl.lu.\n\nDer Park trägt offiziell den Namen seines Gestalters, des französischen Landschaftsarchitekten Édouard André, und wurde zwischen 1871 und 1878 auf den Festungswällen angelegt, die nach dem Londoner Vertrag von 1867 frei wurden."
+  }
+}

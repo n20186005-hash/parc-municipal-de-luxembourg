@@ -2,21 +2,22 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { ATTRACTION } from '@/config/site';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '卢森堡市立公园全景' },
-  { src: '/gallery/images (2).jpg', alt: '中央林荫步道' },
-  { src: '/gallery/images (3).jpg', alt: '开阔草坪' },
-  { src: '/gallery/images (4).jpg', alt: '池塘水景' },
-  { src: '/gallery/images (5).jpg', alt: '百年古树' },
-  { src: '/gallery/images (6).jpg', alt: '复古雕塑' },
-  { src: '/gallery/images (7).jpg', alt: '卢维尼别墅' },
-  { src: '/gallery/images (8).jpg', alt: '园林风光' },
-  { src: '/gallery/images (9).jpg', alt: '公园入口' },
-  { src: '/gallery/images (10).jpg', alt: '花园步道' },
-  { src: '/gallery/images (11).jpg', alt: '温室区域' },
-  { src: '/gallery/images (12).jpg', alt: '园林夜景' },
-  { src: '/gallery/images (13).jpg', alt: '休闲长椅' },
+  { src: '/gallery/images (1).jpg' },
+  { src: '/gallery/images (2).jpg' },
+  { src: '/gallery/images (3).jpg' },
+  { src: '/gallery/images (4).jpg' },
+  { src: '/gallery/images (5).jpg' },
+  { src: '/gallery/images (6).jpg' },
+  { src: '/gallery/images (7).jpg' },
+  { src: '/gallery/images (8).jpg' },
+  { src: '/gallery/images (9).jpg' },
+  { src: '/gallery/images (10).jpg' },
+  { src: '/gallery/images (11).jpg' },
+  { src: '/gallery/images (12).jpg' },
+  { src: '/gallery/images (13).jpg' },
 ];
 
 export default function Gallery() {
@@ -96,7 +97,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/G7Jrv5dPUZyc5SZBA"
+                href={ATTRACTION.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

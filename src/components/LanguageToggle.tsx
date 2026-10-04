@@ -3,11 +3,9 @@
 import { useLocale } from 'next-intl';
 import { routing, type Locale, useRouter, usePathname } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
+import { LOCALE_LABEL } from '@/config/site';
 
-const labels: Record<string, string> = {
-  zh: '中文',
-  en: 'English',
-};
+const labels: Record<string, string> = LOCALE_LABEL;
 
 export default function LanguageToggle() {
   const locale = useLocale();

@@ -3,6 +3,8 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
+import { ATTRACTION, HTML_LANG, OG_LOCALE, SEO_SITE_NAME, localeUrl, type Locale } from '@/config/site';
+import { buildAlternates } from '@/lib/seo';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -15,30 +17,34 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://thekingsgarden.info';
-
-  const zhUrl = `${baseUrl}/`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const selfUrl = localeUrl(locale as Locale, '/');
 
   return {
+    metadataBase: new URL(localeUrl('en', '/')),
     title: messages.meta.title,
     description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
-      },
-    },
+    applicationName: SEO_SITE_NAME,
+    alternates: buildAlternates(locale as Locale, '/'),
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "The King's Garden",
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      siteName: SEO_SITE_NAME,
+      locale: OG_LOCALE[locale as Locale],
       type: 'website',
+      images: [
+        {
+          url: `${localeUrl('en', '/')}gallery/images%20(1).jpg`,
+          width: 1200,
+          height: 800,
+          alt: ATTRACTION.name,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
     },
   };
 }
@@ -60,10 +66,8 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={HTML_LANG[locale as Locale]} suppressHydrationWarning>
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

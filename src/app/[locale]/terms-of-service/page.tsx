@@ -1,6 +1,8 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import { buildAlternates } from '@/lib/seo';
+import { localPath, type Locale } from '@/config/site';
 
 export async function generateMetadata({
   params,
@@ -8,33 +10,19 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
 
   return {
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
+    robots: { index: false, follow: true },
+    alternates: buildAlternates(locale as Locale, '/terms-of-service'),
   };
 }
 
 function TermsContent() {
   const t = useTranslations('terms');
   const ht = useTranslations('header');
-  const locale = useLocale();
+  const locale = useLocale() as Locale;
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = localPath(locale, '/');
   const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
